@@ -27,7 +27,7 @@ Per la pswd è necessario generarla con HASH1: http://www.sha1-online.com/.
 
 ---
 ## Todo
--[ ] Resettare gli autoincremental
--[ ] Come implementare funzionalità per branco?
+- [ ] Resettare gli autoincremental
+- [ ] Come implementare funzionalità per branco?
 
 
