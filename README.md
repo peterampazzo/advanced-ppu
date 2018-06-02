@@ -24,3 +24,10 @@ Per impostare i parametri per stabilire una connessione con il DB modificare il 
 Aggiungere un nuovo record sulla tabella ```utenti```: inserire utente ed email.
 
 Per la pswd è necessario generarla con HASH1: http://www.sha1-online.com/.
+
+---
+## Todo
+-[ ] Resettare gli autoincremental
+-[ ] Come implementare funzionalità per branco?
+
+
