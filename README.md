@@ -27,7 +27,7 @@ Per la pswd è necessario generarla con HASH1: http://www.sha1-online.com/.
 
 ---
 ## Todo
-- [ ] Resettare gli autoincremental
+- [ ] Resettare gli autoincremental (vedi: https://stackoverflow.com/questions/8923114/how-to-reset-auto-increment-in-mysql)
 - [ ] Come implementare funzionalità per branco?
 
 
