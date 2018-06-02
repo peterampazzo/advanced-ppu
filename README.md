@@ -29,5 +29,10 @@ Per la pswd è necessario generarla con HASH1: http://www.sha1-online.com/.
 ## Todo
 - [ ] Resettare gli autoincremental (vedi: https://stackoverflow.com/questions/8923114/how-to-reset-auto-increment-in-mysql)
 - [ ] Come implementare funzionalità per branco?
+- [ ] CAPTCHA alla login?
+- [ ] Controllare pulsanti ```Specialità``` e ```Brevetti``` su ```extra.html``` 
+- [ ] Default user
+- [ ] Bootstrap 4
+- [ ] Accesso DB del Gruppo oppure funzione di importazione da DB (API??)
 
-
+Schema dati: https://github.com/peterampazzo/advanced-ppu/blob/master/doc/diagramma_er_appu.png
